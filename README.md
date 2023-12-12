@@ -7,4 +7,4 @@
   - Extract the zip to the themes path.
 
   ## Licencing
-  [![license](https://img.shields.io/badge/License-GNU%20GPL-blue)](https://shields.io)
+  [![License](https://img.shields.io/github/license/blainegith/adwaita-window-border)](https://github.com/blainegith/adwaita-window-border/blob/master/LICENSE)
