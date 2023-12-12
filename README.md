@@ -4,7 +4,7 @@
   ![](https://i.imgur.com/wwFiD64.png)
 
   ## Usage
-  - Extract the zip to the themes path.
+  - Move the zip to the themes path.
 
   ## Licencing
   [![License](https://img.shields.io/github/license/blainegith/adwaita-window-border)](https://github.com/blainegith/adwaita-window-border/blob/master/LICENSE)
